@@ -1,11 +1,9 @@
-[![MasterHead]()](https://github.com/man-droid23)
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Alif+Ilman+Nafian's+Github+Journey!&font=Fira%20Code&center=true&width=700&height=50&duration=4000&pause=1000" alt="Pepega">
 </p>
 
 <p align="center">
-<img alt="Great View" width="600px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/d9h03vb-15f6de38-b68c-4047-aea9-86927939c40f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZDloMDN2Yi0xNWY2ZGUzOC1iNjhjLTQwNDctYWVhOS04NjkyNzkzOWM0MGYuZ2lmIn1dXX0.mgXRYzWKQXJ5HimPXPiAejPOVncc-RlQuj4UeWeen5A"</img>
+<img alt="Great View" width="1000px" height="300px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/d9h03vb-15f6de38-b68c-4047-aea9-86927939c40f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZDloMDN2Yi0xNWY2ZGUzOC1iNjhjLTQwNDctYWVhOS04NjkyNzkzOWM0MGYuZ2lmIn1dXX0.mgXRYzWKQXJ5HimPXPiAejPOVncc-RlQuj4UeWeen5A"</img>
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Ilman Nafian
@@ -55,9 +53,10 @@ Socials
 
 <b>My GitHub Stats</b>
 -------------------------------------------------
-
+<div align="center">
 <a href="http://www.github.com/man-droid23"><img src="https://github-readme-stats.vercel.app/api?username=man-droid23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="man-droid23's GitHub stats" /></a>
-
 <a href="http://www.github.com/man-droid23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=man-droid23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/man-droid23"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-droid23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
-<a href="https://github.com/man-droid23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=man-droid23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
